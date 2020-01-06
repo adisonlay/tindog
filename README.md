@@ -1,21 +1,32 @@
-# Tindog
-adison and heondo
+# TinDog
 
-### Final group Project by Adison Lay and Heondo Kim
+A dog playdate scheduling app where social dog owners can post and join dates to meet dogs in their area. A two person project built using React, Node, and MySQL.
 
-For our web development program we were placed into a group of two to make our first full stack application 
-(without prior boilerplate or wireframes). First time using Node and hooks but a great learning experience.
+*Note: Project is currently under development.*
 
-#### Tools
-* NodeJS
-* MySQL 5.7
-* React
-* ReactStrap
-* Google Maps API
+## Technologies Used
+- React
+- Webpack 4
+- Node.js
+- Express
+- MySQL
+- ReactStrap
+- React Router
+- AWS EC2
+- AWS S3
+- bcrypt
 
-##### Main Features
-The main features of the project were to allow users to create profiles of their dog and themselves, create
-open days/locations they want to meet, and join/reject those playdate openings.
-
-It was a ton of fun trying so many new things in a time constraint but I think we pulled off something pretty
-impressive for a first go.
+## Features
+- Dog owners can register for a user account.
+- Dog owners can log in to their user profile.
+- Dog owners can add their dog information to their profile.
+- Dog owners can view information for other user's dogs.
+- Dog owners can view dog playdate listings.
+- Dog owners can post an open playdate for other dogs to join.
+- Dog owners can delete an open playdate.
+- Dog owners can request to schedule a meeting with another dog.
+- Dog owners can view the incoming playdate requests for their dogs.
+- Dog owners can accept a playdate request.
+- Dog owners can reject a playdate request.
+- Dog owners can view a summary of pending requests for meetings.
+- Dog owners can view a list of upcoming scheduled playdates.
